@@ -1,0 +1,13 @@
+.content {
+    cursor: pointer;
+}
+
+.content-flex-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.margin-top-sm {
+    margin-top: 27px;
+}
